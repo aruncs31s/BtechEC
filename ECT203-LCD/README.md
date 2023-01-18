@@ -42,6 +42,8 @@ endmodule
 multiplexer is a device that selects between several analog or digital input signals and forwards the selected input to a single output line
 </p>
 
+![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/_20230119_013057.JPG")
+
 
 6.**Write a Verilog code for half subtractor**
 ```
