@@ -1,4 +1,4 @@
-### **LCD Previous year question papers**
+}### **LCD Previous year question papers**
 - December 2021 (2019 scheme)
   [view](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/ECT203-QP1.pdf)  or  [download](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/ECT203-QP1.pdf?raw=true)
 - December `2020` (2019 Scheme)
@@ -46,3 +46,7 @@ module half_sub(diff,borrx,y);
 endmodule
 
 ```
+
+7.**Convert a JK flipflop to T flipflop**
+
+![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/jk%20to%20t%20ff.jpg)
