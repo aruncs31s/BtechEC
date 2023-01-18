@@ -42,9 +42,25 @@ endmodule
 multiplexer is a device that selects between several analog or digital input signals and forwards the selected input to a single output line
 </p>
 
-![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/_20230119_013057.JPG")
+![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/_20230119_013057.JPG)
+<p align="justify">
+consider the 2:1 Mux show in figure in which D0 and D1 are the `input` lines and S0 is the `SELECT` line and Y is the output 
 
 
+| So | Y |
+|--------|--------|
+|0|D0|
+|1|D1|
+
+<p align="justify">
+
+in this 2:1 mux the if the `So` input is 0 the `D0` is directed to the output(y) or if `So` = 1 the `D1` is directed to the output(y)
+
+</p>
+
+
+
+</p>
 6.**Write a Verilog code for half subtractor**
 ```
 module half_sub(diff,borrx,y);
