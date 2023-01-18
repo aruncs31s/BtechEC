@@ -9,7 +9,7 @@
 
 1.**Convert (231.45)8 to equivalent decimal and binary**
 
-
+![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/1db.jpg)
 
 
 
