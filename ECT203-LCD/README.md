@@ -19,7 +19,9 @@
 Keywords are predefined non-escaped identifiers that are used to define the language constructs. A Verilog HDL keyword preceded by an escape character is not interpreted as a keyword. All keywords are defined in lowercase. Therefore, you must be type them in lowercase in source files.
 </p>
 
-3
+3. Reduce the expression f = ((AB)' + A' + AB)'
+
+![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/Screenshot_20230118-154138.png)
 
 
 </br>
