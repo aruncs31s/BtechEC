@@ -24,10 +24,12 @@ Keywords are predefined non-escaped identifiers that are used to define the lang
 
 </br>
 
-
 4.**Write a Verilog code for implementing a NOR gate**
+
 ```
+
 module NOR_GATE(output y, input a, b);
    nor(y, a, b); 
 endmodule
+
 ```
