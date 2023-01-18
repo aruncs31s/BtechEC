@@ -55,3 +55,5 @@ endmodule
 
 **Note** `second kmap is incomplete`
 
+11.(a)Perform the following operations
+       (i) (A5C)16 +(8E4)16 (ii) (175.6)8 -(47.7)8 
