@@ -99,3 +99,27 @@ Hamming code which is transmitted through a noisy channel. Decode the
 message assuming that a single eror occuffed in the codeword*
 
 *Hamming code is an error correction system that can detect and correct errors when data is stored or transmitted. It requires adding additional parity bits with the data. It is commonly used in error correction code (ECC) RAM.*
+
+1100110  -> 
+|D7|D6|D5|P4|D3|P2|P1|
+|--|--|--|--|--|--|--|
+|1|1|0|0|1|1|0|
+
+
+P1 =1 -> 
+|P1|D3|D5|D7|
+|--|--|--|--|
+|0|1|0|1|  
+>> No errors 
+
+|P2|D3|D6|D7|
+|--|--|--|--|
+|1|1|1|1| 
+
+>> No errors
+
+|P2|D3|D6|D7|
+|--|--|--|--|
+|0|0|1|1|
+
+No errors 
