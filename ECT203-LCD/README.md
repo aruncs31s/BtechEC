@@ -1,3 +1,5 @@
+## still solving
+
 ## **LCD Previous year question papers**
 - December 2021 (2019 scheme)
   [view](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/ECT203-QP1.pdf)  or  [download](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/ECT203-QP1.pdf?raw=true)
@@ -16,10 +18,12 @@
 2.**Give a brief description of keywords in Verilog**
 
 <p align="justify">
-Keywords are predefined non-escaped identifiers that are used to define the language constructs. A Verilog HDL keyword preceded by an escape character is not interpreted as a keyword. All keywords are defined in lowercase. Therefore, you must be type them in lowercase in source files.
+
+*Keywords are predefined non-escaped identifiers that are used to define the language constructs. A Verilog HDL keyword preceded by an escape character is not interpreted as a keyword. All keywords are defined in lowercase. Therefore, you must be type them in lowercase in source files.*
+
 </p>
 
-3. Reduce the expression f = ((AB)' + A' + AB)'
+3.**Reduce the expression f = ((AB)' + A' + AB)'**
 
 ![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/Screenshot_20230118-154138.png?raw=true)
 
@@ -39,12 +43,12 @@ endmodule
 5.**Explain the working of a multiplexer**
 <p align="justify">
 
-multiplexer is a device that selects between several analog or digital input signals and forwards the selected input to a single output line
+*multiplexer is a device that selects between several analog or digital input signals and forwards the selected input to a single output line*
 </p>
 
 ![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/_20230119_013057.JPG)
 <p align="justify">
-consider the 2:1 Mux show in figure in which D0 and D1 are the `input` lines and S0 is the `SELECT` line and Y is the output 
+*consider the 2:1 Mux show in figure in which D0 and D1 are the `input` lines and S0 is the `SELECT` line and Y is the output*
 
 
 | So | Y |
@@ -54,7 +58,7 @@ consider the 2:1 Mux show in figure in which D0 and D1 are the `input` lines and
 
 <p align="justify">
 
-in this 2:1 mux the if the `So` input is 0 the `D0` is directed to the output(y) or if `So` = 1 the `D1` is directed to the output(y)
+*in this 2:1 mux the if the `So` input is 0 the `D0` is directed to the output(y) or if `So` = 1 the `D1` is directed to the output(y)*
 
 </p>
 
@@ -78,7 +82,8 @@ endmodule
 
 **Note** `second kmap is incomplete`
 
-11.(a)**Perform the following operations**
+11.
+(a)*Perform the following operations*
        **(i) (A5C)16 +(8E4)16 (ii) (175.6)8 -(47.7)8** 
 
 
@@ -87,3 +92,8 @@ endmodule
 ![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/_20230118_235645.JPG)
 
 ![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/_20230118_235725.JPG)
+
+
+*(b)What is Hamming code? The message 11001l0 is coded in 7-bit even parity (8)
+Hamming code which is transmitted through a noisy channel. Decode the
+message assuming that a single eror occuffed in the codeword*
