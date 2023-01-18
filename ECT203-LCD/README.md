@@ -32,10 +32,15 @@ Keywords are predefined non-escaped identifiers that are used to define the lang
 module NOR_GATE(output y, input a, b);
    nor(y, a, b); 
 endmodule
+
 ```
 
 
-5.
+5.**Explain the working of a multiplexer**
+<p align="justify">
+
+multiplexer is a device that selects between several analog or digital input signals and forwards the selected input to a single output line
+</p>
 
 
 6.**Write a Verilog code for half subtractor**
