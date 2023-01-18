@@ -33,3 +33,16 @@ module NOR_GATE(output y, input a, b);
 endmodule
 
 ```
+
+
+5.
+
+
+6.**Write a Verilog code for half subtractor**
+```
+module half_sub(diff,borrx,y);
+     assign diff = x ^ y ;
+     assign borr = ~x & y ;
+endmodule
+
+```
