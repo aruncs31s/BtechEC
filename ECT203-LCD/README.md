@@ -97,3 +97,5 @@ endmodule
 *(b)What is Hamming code? The message 11001l0 is coded in 7-bit even parity (8)
 Hamming code which is transmitted through a noisy channel. Decode the
 message assuming that a single eror occuffed in the codeword*
+
+*Hamming code is an error correction system that can detect and correct errors when data is stored or transmitted. It requires adding additional parity bits with the data. It is commonly used in error correction code (ECC) RAM.*
