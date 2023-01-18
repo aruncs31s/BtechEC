@@ -55,12 +55,12 @@ endmodule
 
 **Note** `second kmap is incomplete`
 
-11.(a)Perform the following operations
-       (i) (A5C)16 +(8E4)16 (ii) (175.6)8 -(47.7)8 
+11.(a)**Perform the following operations**
+       **(i) (A5C)16 +(8E4)16 (ii) (175.6)8 -(47.7)8** 
 
 
-[](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/_20230118_235701.JPG)
+![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/_20230118_235701.JPG)
 
-[](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/_20230118_235645.JPG)
+![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/_20230118_235645.JPG)
 
 ![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/_20230118_235725.JPG)
