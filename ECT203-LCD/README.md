@@ -84,7 +84,7 @@ endmodule
 
 11.
 (a)*Perform the following operations*
-       **(i) (A5C)16 +(8E4)16 (ii) (175.6)8 -(47.7)8** 
+       **(i) (A5C)16 +(8E4)16 (ii) (175.6)16 -(47.7)16** 
 
 
 ![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/_20230118_235701.JPG)
