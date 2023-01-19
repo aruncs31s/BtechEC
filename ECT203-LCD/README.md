@@ -167,3 +167,10 @@ therefor Result = **01000**
 > MSB is has carry eliminate it and the result will be 
 *01000*
 
+
+13.*(b) Simply the expression Y=πM(0,1,4,5,6,8,9,12,13,14) using K-Map and
+implement the simplified expression using NOR logic*
+
+![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/kmap.jpg?raw=true)
+
+![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/kmap2.jpg?raw=true)
