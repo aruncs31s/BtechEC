@@ -168,7 +168,20 @@ therefor Result = **01000**
 *01000*
 
 
-13.*(b) Simply the expression Y=πM(0,1,4,5,6,8,9,12,13,14) using K-Map and
+13.
+(a)*Obtain the canonical POS expression of F(A,B,C) = (A+B)(B+C)(A+C)*
+
+```
+F(A,B,C) = (A+B')(B+C)(A+C')
+Using X'.X = 0
+F = (A+B'+C'.C)(A'.A+B+C)(A+B'B+C')
+Using `X + YY' = (X+Y)(X+Y')
+F = (A+B'+C')(A+B'+C)(A'+B+C)(A+B+C)-(A+B'+C')-(A+B+C')
+F(A,B,C) = (A+B'+C')(A+B'+C)(A'+B+C)(A+B+C)(A+B+C')
+
+```
+
+*(b) Simply the expression Y=πM(0,1,4,5,6,8,9,12,13,14) using K-Map and
 implement the simplified expression using NOR logic*
 
 ![](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/kmap.jpg?raw=true)
