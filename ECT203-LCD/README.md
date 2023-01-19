@@ -123,3 +123,47 @@ P1 =1 ->
 |0|0|1|1|
 
 No errors 
+
+
+12.a)**Find *11001* - *10001* using 1's complement and 2's compleme t method
+   b)**explain operators in verilog**
+
+a)*Using 1's complement Method*
+11001 - 10001
+> take the complemet of substrand
+ie 10001 ==> 01110   *(25 - 17 )*
+
+> add it 
+
+|  11001 +| 
+|---------|
+| 01110  |   
+|100111|     
+> *here the MSB is the carry*
+add the *MSB to LSB*
+
+|00111 +|  
+|-------|
+|00001|    
+=
+|01000|    
+
+therefor Result = **01000**
+
+*Using 2's complement Method*
+|11001|
+|-----|
+|10001|
+
+> complemnt the substrahned
+> add one to it 
+> add  the new substrahned with minued
+
+| 11001|
+|--------|
+|01111|
+|=101000|
+
+> MSB is has carry eliminate it and the result will be 
+*01000*
+
