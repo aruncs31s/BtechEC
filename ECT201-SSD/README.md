@@ -1,1 +1,2 @@
 - *first series ssd*  [view](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT201-SSD/ssd%20first%20series.pdf) [download](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT201-SSD/ssd%20first%20series.pdf?raw=true)
+- *ssd first series retest* [view](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/raw/main/ECT201-SSD/ssd%20first%20series%20retest.pdf)  [download](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/raw/main/ECT201-SSD/ssd%20first%20series%20retest.pdf?raw=true)
