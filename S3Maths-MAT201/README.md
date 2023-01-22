@@ -1,1 +1,1 @@
-
+- *pde and complex 2nd series*  [view](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/raw/main/S3Maths-MAT201/pde%20and%20complex%202nd%20series.pdf)   [download](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/raw/main/S3Maths-MAT201/pde%20and%20complex%202nd%20series.pdf?raw=true)
