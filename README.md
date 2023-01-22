@@ -2,7 +2,20 @@
 
 ### SSD ECT201
 
-- *first series ssd*  [view](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT201-SSD/ssd%20first%20series.pdf) [download](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT201-SSD/ssd%20first%20series.pdf?raw=true)
+- *ssd december 2022 university exam*  [view](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT201-SSD/ssd%20december%202022%20sem%20exam.pdf)  [download](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT201-SSD/ssd%20december%202022%20sem%20exam.pdf?raw=true)
+
+- *ssd first series*  [view](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT201-SSD/ssd%20first%20series.pdf) [download](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT201-SSD/ssd%20first%20series.pdf?raw=true)
+
+- *ssd first series restest* [view](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT201-SSD/ssd%20first%20series%20retest.pdf)  [download](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT201-SSD/ssd%20first%20series%20retest.pdf?raw=true)
+ 
+- *ssd second series*  [view](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT201-SSD/ssd%20second%20series.pdf)  [download](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT201-SSD/ssd%20second%20series.pdf?raw=true)
+
+
+
+<!--- 
+- *ssd december 2022 university exam*  [view](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT201-SSD/ssd%20december%202022%20sem%20exam.pdf)  [download](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT201-SSD/ssd%20december%202022%20sem%20exam.pdf?raw=true)
+
+--->
 
 ### MAT 201 PDE and complex analysis
 
@@ -19,8 +32,16 @@
 - *Lcd second series* [view](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/lcd%20second%20series.pdf)  [download](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT203-LCD/lcd%20second%20series.pdf?raw=true)
 
 
+
 ### CST281 OPBJECT ORIENTED PROGRAMMING
 
 - *OOP first series (miner) exam*  [view](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/CST281-OOP/cst%20281%20object%20oriented%20programming.pdf)  [download](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/CST281-OOP/cst%20281%20object%20oriented%20programming.pdf?raw=true)
+
+
+
+### ECT205 Network theory 
+
+- *first series exam network theory*  [view](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT205-NT/nt%20series%20exam.pdf)  [download](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT205-NT/nt%20series%20exam.pdf?raw=true)
+
 
 
