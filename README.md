@@ -1,5 +1,13 @@
 # btech-ece-solved-quiestion-papers
 
+- [ECT201 SSD](#ssd-ect201)
+- [MAT201 Maths](#mat-201-pde-and-complex-analysis)
+- [ECT203 LCD](#ect203-lcd)
+- [CST281 OOP](#cst281-object-oriented-programming)
+- [ECT205 NT](#ect205-network-theory)
+- [EST200 DE](#est200-design-and-engineering)
+
+
 ### SSD ECT201
 
 - *ssd december 2022 university exam*  [view](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT201-SSD/ssd%20december%202022%20sem%20exam.pdf)  [download](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/ECT201-SSD/ssd%20december%202022%20sem%20exam.pdf?raw=true)
@@ -33,7 +41,7 @@
 
 
 
-### CST281 OPBJECT ORIENTED PROGRAMMING
+### CST281 OBJECT ORIENTED PROGRAMMING
 
 - *OOP first series (miner) exam*  [view](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/CST281-OOP/cst%20281%20object%20oriented%20programming.pdf)  [download](https://github.com/aruncs31s/btech-ece-solved-quiestion-papers/blob/main/CST281-OOP/cst%20281%20object%20oriented%20programming.pdf?raw=true)
 
